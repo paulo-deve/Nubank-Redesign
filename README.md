@@ -5,9 +5,9 @@ Projeto criado para fins de estudos e com base em um redesign do site da nubank 
 
 # Linguagens:
 
-    HTML
-    CSS
-    JAVASCRIPT
+* HTML
+* CSS
+* JAVASCRIPT
 
 # Como começar
 
